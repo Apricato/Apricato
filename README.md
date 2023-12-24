@@ -1,6 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Apricato&data=repositories,stars,commits)](https://github.com/Apricato/github-widgetbox)
 
-Hey there! 👋  Welcome to my GitHub profile! 
+### Hey there! 👋  Welcome to my GitHub profile! 
 
 ## About Me
 Hey there! I'm a 20-year-old CS student from Mexico. 
