@@ -1,3 +1,6 @@
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Apricato&data=repositories,stars,commits)](https://github.com/Apricato/github-widgetbox)
+
 ## Hey there! 👋  Welcome to my GitHub profile! 
 
 ## About Me
@@ -15,5 +18,4 @@ I'm currently exploring Front-end development and dabbling in Data Science, expe
 - 🎨 I find the intersection of design and data intriguing.
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Apricato&data=repositories,stars,commits)](https://github.com/Apricato/github-widgetbox)
 
