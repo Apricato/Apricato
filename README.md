@@ -1,5 +1,5 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Apricato&data=repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Apricato&data=repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 ## Hey there! 👋  Welcome to my GitHub profile! 
 
