@@ -2,7 +2,7 @@
 
 Hey there! I'm Tania , a 22-year-old CS student from Mexico in a committed  love-hate relationship with CSS. Between coding sessions, you'll often find me engrossed in K-drama storylines or out and about, camera in hand, capturing moments that catch my eye.
 
-[Portfolio ✨](https://www.webpagetest.org/blank.html) | [linkedin 🧑‍💻](https://www.webpagetest.org/blank.html)| [Inquires 📧](apricato27@gmail.com) | [Follow me on figma ](https://figma.com/@bluebird3)
+[Portfolio ✨](https://www.webpagetest.org/blank.html) | [linkedin 🧑‍💻](https://www.webpagetest.org/blank.html)| [Inquires 📧](apricato27@gmail.com) | [Follow me on figma 🖍️ ](https://figma.com/@bluebird3)
 
 ### Languages and technologies
 ![HTML](https://img.shields.io/badge/-HTML-FFF?&logo=HTML5&logoColor=E34F26)
@@ -19,6 +19,8 @@ Hey there! I'm Tania , a 22-year-old CS student from Mexico in a committed  love
 ### Interests
 Ux/Ui design, Web development, Cloud Computing.
 Pasionate about creating user-centric, responsive websites and apps.
+
+---
 
 ### Tools
 - Figma (for design)
