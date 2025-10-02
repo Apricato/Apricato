@@ -4,7 +4,7 @@ Hey there! I'm Tania , a 22-year-old CS student from Mexico in a committed  love
 
 [Portfolio ✨](https://www.webpagetest.org/blank.html) | [linkedin 🧑‍💻](https://www.webpagetest.org/blank.html)| [Inquires 📧](apricato27@gmail.com) | [Follow me on figma 🖍️ ](https://figma.com/@bluebird3)
 
-### Languages and technologies
+### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-FFF?&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-FFF?&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript&logoColor=F7DF1E)
@@ -20,7 +20,7 @@ Hey there! I'm Tania , a 22-year-old CS student from Mexico in a committed  love
 Ux/Ui design, Web development, Cloud Computing.
 Pasionate about creating user-centric, responsive websites and apps.
 
----
+<hr style="border: 1px solid #ccc;"/>
 
 ### Tools
 - Figma (for design)
@@ -28,6 +28,8 @@ Pasionate about creating user-centric, responsive websites and apps.
 - Linux 
 - Postman (for API testing)
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?apricato&theme=radical)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
