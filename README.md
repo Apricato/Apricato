@@ -11,7 +11,6 @@ Hey there! I'm Tania , a 22-year-old CS student from Mexico in a committed  love
 ![React](https://img.shields.io/badge/-React-FFF?&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF?&logo=Node.js&logoColor=8CC84B)
 ![Express.js](https://img.shields.io/badge/-Express.js-FFF?&logo=Express&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FFF?&logo=MongoDB&logoColor=47A248)
 ![Git](https://img.shields.io/badge/-Git-FFF?&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFF?&logo=GitHub&logoColor=181717)
 
