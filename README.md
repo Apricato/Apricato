@@ -10,7 +10,7 @@ Hey there! I'm Tania , a 23-year-old CS student from Mexico in a committed  love
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-FFF?&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFF?&logo=GitHub&logoColor=181717)
-![](https://komarev.com/ghpvc/?username=apricato)
+
 
 ### Interests
 Ux/Ui design, Web development, Cloud Computing.
