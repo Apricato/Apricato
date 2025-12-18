@@ -2,7 +2,9 @@
 
 Hey there! I'm Tania , a 23-year-old CS student from Mexico in a committed  love-hate relationship with CSS. Between coding sessions, you'll often find me engrossed in K-drama storylines or out and about, camera in hand, capturing moments that catch my eye.
 
-[Portfolio ✨](https://www.webpagetest.org/blank.html) | [linkedin 🧑‍💻](https://www.linkedin.com/in/tania-i-8b6bab38b/)| [Inquires 📧](ibarra.tania021@gmail.com) | [Follow me on figma 🖍️ ](https://figma.com/@bluebird3)
+
+[Portfolio ✨](https://www.webpagetest.org/blank.html) | [linkedin 🧑‍💻](https://www.linkedin.com/in/tania-i-8b6bab38b/)| [Inquires 📧](mailto:ibarra.tania021@gmail.com) | [Follow me on figma 🖍️ ](https://figma.com/@bluebird3)
+
 
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-FFF?&logo=HTML5&logoColor=E34F26)
